@@ -6,7 +6,7 @@
 <p align="left">
 🎓 ESTUDIANTE DE INGENIERIA DE SISTEMAS
 
-🎥 CREADOR DE PEQUEÑOS PROYECTOR tanto académicos como personales
+🎥 CREADOR DE PEQUEÑOS PROYECTOS tanto académicos como personales
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software
 
